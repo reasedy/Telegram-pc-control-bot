@@ -30,7 +30,7 @@
 
 ```bash
 git clone https://github.com/reasedy/Telegram-pc-control-bot.git
-cd telegram-remote-pc-bot
+cd Telegram-pc-control-bot
 ```
 
 02. 📥 Install dependencies
